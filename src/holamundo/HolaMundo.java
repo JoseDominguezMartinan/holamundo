@@ -18,6 +18,7 @@ public class HolaMundo {
         System.out.println("HOLA MUNDO"); //MOSTRAR HOLA MUNDO
         System.out.println("HOLA"); //MOSTRAR HOLA
         System.out.println("MUNDO"); //MOSTRAR MUNDO
+        ---------
     }
     
 }
